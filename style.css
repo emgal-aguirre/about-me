@@ -10,20 +10,21 @@ body {
   
     /* Positioning */
     margin: 0;
-    font-family: Georgia, "Times New Roman", Times, serif;
+    font-family: montserrat;
   
     /* Typography */
     font-size: 18px;
     line-height: 150%;
     color: #333;
-    font-family: monsteratt ;
+    font-family: montserrat;
   
     /* Visual */
-    background: #efeee7;
+    background: white;
   }
   
   header {
-    background: #d21034;
+    background: #e6beae;
+    color: white;
   }
   
   h1 {
@@ -38,17 +39,19 @@ body {
     /* Typography */
     color: #eee;
     text-align: center;
+    font-family: montserrat;
   
     /* Visual */
-    background: #333;
+    background: #e6beae;;
   }
   
   h2 {
     font-size: 24px;
+    font-family: montserrat;
   }
   
   a {
-    color: #d21034;
+    color: e6beae
   }
   
   .container {
